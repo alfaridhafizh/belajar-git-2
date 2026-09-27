@@ -1,4 +1,4 @@
-Ini adalah eksperimen fitur keren di branch baru
+Ini adalah baris pertama yang diubah dari GITHUB oleh rekan setim
 Universitas UNIKOKM Komputer
 Revisi ini diketik langsung dari awan oleh rekan setim.
 Revisi kedua kali setelah di clone
