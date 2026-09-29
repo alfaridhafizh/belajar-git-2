@@ -6,3 +6,5 @@ Revisi ketiga kali setelah di clone
 Kalimat rahasia ini diunduh via fetch tanpa merusak meja kerja.
 Fitur ini akan diajukan melalui Pull Request
 Menambahkan fitur laporan khusus
+Pura pura memperbaiki bug
+bug is serangga
