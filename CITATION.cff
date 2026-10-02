@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Jika anda menggunakan repository ini, mohon sitasi menggunakan metadata berikut."
+authors:
+	- family-names: "Hafizh"
+	- given-names: "Rizky Al Farid"
+title: "Proyek belajar Git dan Version Control System"
+version: 1.0.0
+date-released: 2026-10-01
